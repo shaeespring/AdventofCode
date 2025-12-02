@@ -1,6 +1,6 @@
 import opener
 START = 50
-FILENAME = "data/dayone"
+FILENAME = "data/01dayone"
 
 def ptone(lines):
     number = START

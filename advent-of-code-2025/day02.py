@@ -1,6 +1,6 @@
 import opener
 
-FILENAME="data/daytwo"
+FILENAME="data/02daytwo"
 
 
 def ptone(lines):
@@ -12,7 +12,7 @@ def ptone(lines):
         for i in range(st,end+1):
             s = str(i)
             if  s[:len(s)//2] ==  s[len(s)//2:]:
-                    total += i
+                total += i
     return total
 
 def pttwo(lines):
@@ -32,7 +32,6 @@ def pttwo(lines):
     return total
 def main():
     lines = opener.opener(FILENAME,",")
-
     print(ptone(lines))
     print(pttwo(lines))
 

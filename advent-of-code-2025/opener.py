@@ -9,7 +9,7 @@ def opener(filename, delimiter=None):
             lines.append(line)
 
     if len(lines) == 1:
-            return line
+        return line
     else:
         return lines
     file.close()
