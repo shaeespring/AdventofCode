@@ -1,8 +1,9 @@
 import opener
-
+START = 50
+FILENAME = "data/dayone"
 
 def ptone(lines):
-    number = 50
+    number = START
     password = 0
     for line in lines:
         if line[0] == "L":
@@ -20,7 +21,7 @@ def ptone(lines):
 
 
 def pttwo(lines):
-    number = 50
+    number = START
     password = 0
     for line in lines:
         if line[0] == "L":
@@ -42,7 +43,7 @@ def pttwo(lines):
 
 
 def main():
-    lines = opener.opener("data/dayone")
+    lines = opener.opener(FILENAME)
 
     print(ptone(lines))
     print(pttwo(lines))
