@@ -11,8 +11,8 @@ After the 12 days, I plan on doing the rest of December going back through in Ru
 
 - [Day 1](https://adventofcode.com/2025/day/1) :star: :star2:
 - [Day 2](https://adventofcode.com/2025/day/2) :star: :star2:
-- [Day 3](https://adventofcode.com/2025/day/3)
-- [Day 4](https://adventofcode.com/2025/day/4)
+- [Day 3](https://adventofcode.com/2025/day/3) :star: :star2:
+- [Day 4](https://adventofcode.com/2025/day/4) :star: :star2:
 - [Day 5](https://adventofcode.com/2025/day/5)
 - [Day 6](https://adventofcode.com/2025/day/6)
 - [Day 7](https://adventofcode.com/2025/day/7)
